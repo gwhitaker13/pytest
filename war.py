@@ -25,6 +25,7 @@
 # If no winner exists after 100 rounds, the game ends with a prompt to play chess instead.
 """
 
+
 import random
 
 def play_war():

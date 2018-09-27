@@ -169,3 +169,5 @@ class functional_harmony(object):
             
         for n in [root, third, fifth]:
             print (self.notes[n].lower())
+
+# Continue w/qualitative variations
